@@ -32,42 +32,44 @@
     [
         "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1521561499208,
             "changeTime": 1521561499208,
-            "contentHash": "8d4a9a94672f3c47f2fa4df8ea9948d361c224f2",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "8d4a9a94672f3c47f2fa4df8ea9948d361c224f2"
         }
     ],
     [
         "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1521561586404,
-            "changeTime": 1521561586404,
+            "modifiedTime": 1521555206213,
+            "changeTime": 1521555206213,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1521559397758,
-            "changeTime": 1521559397758,
+            "modifiedTime": 1521555581945,
+            "changeTime": 1521555581945,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
-            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df"
+            "isArtifactRoot": false
         }
     ],
     [
@@ -86,14 +88,14 @@
     [
         "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\objects\\batata__c\\batata__c.object-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\objects\\batata__c\\batata__c.object-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 2109,
             "modifiedTime": 1521559374744,
             "changeTime": 1521559374744,
-            "contentHash": "f10f6ee3b8ed109ac841c39bf575ca9200849cb8",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "f10f6ee3b8ed109ac841c39bf575ca9200849cb8"
         }
     ],
     [
@@ -320,170 +322,40 @@
     [
         "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\classes",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\classes",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1521561499241,
             "changeTime": 1521561526134,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
         }
     ],
     [
         "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\classes\\AccountController.cls",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 301,
             "modifiedTime": 1521561528968,
             "changeTime": 1521561528968,
-            "contentHash": "69e2901760ff821d0bf0203d9d16847186655b22",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "69e2901760ff821d0bf0203d9d16847186655b22"
         }
     ],
     [
         "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1521561499242,
             "changeTime": 1521561499242,
-            "contentHash": "009dea813ac2a75cc97e39cbe424285f551f3488",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1521561586422,
-            "changeTime": 1521561586422,
-            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5"
-        }
-    ],
-    [
-        "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1521561586421,
-            "changeTime": 1521561586421,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 155,
-            "modifiedTime": 1521561642916,
-            "changeTime": 1521561642916,
-            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45"
-        }
-    ],
-    [
-        "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 246,
-            "modifiedTime": 1521561586408,
-            "changeTime": 1521561586408,
-            "contentHash": "dfe99a871ed485dfde85a92f9ef175c42e82cbc9"
-        }
-    ],
-    [
-        "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 113,
-            "modifiedTime": 1521561674640,
-            "changeTime": 1521561674640,
-            "contentHash": "d37585a5497942f4652a198588747f2d6be784e7"
-        }
-    ],
-    [
-        "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1521561586423,
-            "changeTime": 1521561586423,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1521561586418,
-            "changeTime": 1521561586418,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1521561586410,
-            "changeTime": 1521561586410,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1521561586412,
-            "changeTime": 1521561586412,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\cmcruz\\SF DX\\primeiroProjeto\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1521561586416,
-            "changeTime": 1521561586416,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "009dea813ac2a75cc97e39cbe424285f551f3488"
         }
     ]
 ]
